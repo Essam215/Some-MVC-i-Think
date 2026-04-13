@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\viewmodels\\enrollmentdisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\viewmodels\\enrollmentdisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Enrollment\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\viewmodels\\enrollmenteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\viewmodels\\enrollmenteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\viewmodels\\enrollmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\viewmodels\\enrollmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\viewmodels\\createcoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\viewmodels\\createcoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Category\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Category\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Category\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Course\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Course\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Student\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Student\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseEnrollmentSystem\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\implementations\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\implementations\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\interfaces\\ienrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\interfaces\\ienrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\implementations\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\implementations\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\implementations\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\implementations\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\implementations\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\implementations\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\interfaces\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\interfaces\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\interfaces\\icourserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\interfaces\\icourserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\repo\\interfaces\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\repo\\interfaces\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|c:\\users\\alm7lawe\\source\\repos\\courseenrollmentsystem\\courseenrollmentsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB23AAF-7FC9-4876-A09B-FADC22BC35C5}|CourseEnrollmentSystem\\CourseEnrollmentSystem.csproj|solutionrelative:courseenrollmentsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Enrollment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Edit.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Enrollment\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T18:06:01.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Enrollment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Enrollment\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T18:05:01.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Enrollment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Index.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Enrollment\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T17:49:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwLEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:46:51.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentDisplayVM.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\EnrollmentDisplayVM.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\ViewModels\\EnrollmentDisplayVM.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\EnrollmentDisplayVM.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\ViewModels\\EnrollmentDisplayVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T17:45:56.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:46:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\EnrollmentEditVM.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\ViewModels\\EnrollmentEditVM.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\EnrollmentEditVM.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\ViewModels\\EnrollmentEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:10:13.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Create.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Enrollment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Enrollment\\Create.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Enrollment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T17:44:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnrollmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\EnrollmentVM.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\ViewModels\\EnrollmentVM.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\EnrollmentVM.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\ViewModels\\EnrollmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T17:28:18.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCourseVM.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\CreateCourseVM.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\ViewModels\\CreateCourseVM.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\ViewModels\\CreateCourseVM.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\ViewModels\\CreateCourseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:44:19.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T14:20:08.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T14:33:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T14:34:37.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T14:31:35.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T14:16:39.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T14:23:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:47:08.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T13:04:21.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T13:05:04.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T13:03:37.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T13:02:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Student.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T11:18:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:46:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Course.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T11:21:36.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Program.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:44:32.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnrollmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\EnrollmentRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Implementations\\EnrollmentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\EnrollmentRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Implementations\\EnrollmentRepo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:16:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Implementations\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\CategoryRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Implementations\\CategoryRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:15:56.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Implementations\\CourseRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\CourseRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Implementations\\CourseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:15:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Implementations\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Implementations\\StudentRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Implementations\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:15:39.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEnrollmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\IEnrollmentRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Interfaces\\IEnrollmentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\IEnrollmentRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Interfaces\\IEnrollmentRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:13:24.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Interfaces\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\IStudentRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Interfaces\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:11:45.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\ICourseRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Interfaces\\ICourseRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\ICourseRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Interfaces\\ICourseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:12:32.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:10:28.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Enrollment.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T11:23:01.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CourseEnrollmentSystem\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\source\\repos\\CourseEnrollmentSystem\\CourseEnrollmentSystem\\Models\\Category.cs",
+              "RelativeToolTip": "CourseEnrollmentSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T11:20:22.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
