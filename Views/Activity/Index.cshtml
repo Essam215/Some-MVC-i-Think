@@ -1,0 +1,36 @@
+﻿@model List<ClubManagmentSystem.Models.Activityy>
+
+<h1>Activities</h1>
+
+<a asp-action="Create" asp-controller="Activity" class="btn btn-primary">Create New +</a>
+
+<form asp-action="Index">
+    <input class="input-group" placeholder="Search here..." name="input" />
+    <button type="submit" class="btn btn-outline-dark">Search</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Duration</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var activity in Model)
+        {
+            <tr>
+                <td>@activity.ActivityId</td>
+                <td>@activity.Name</td>
+                <td>@activity.Type</td>
+                <td>@activity.Duration</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@activity.ActivityId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@activity.ActivityId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

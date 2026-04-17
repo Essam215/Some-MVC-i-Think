@@ -1,0 +1,55 @@
+﻿@model ClubManagmentSystem.ViewModels.RegistrationVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>RegistrationVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RegistrationDate" class="control-label"></label>
+                <input asp-for="RegistrationDate" class="form-control" />
+                <span asp-validation-for="RegistrationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberId" class="control-label"></label>
+                 <select asp-for="MemberId" class="form-control">
+                    <option value="">- Select Member -</option>
+                    @foreach (var member in Model.members)
+                            {
+                                <option value="@member.MemberId">@member.Name</option>
+                            }
+                </select>
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="ActivityId" class="control-label"></label>
+                 <select asp-for="ActivityId" class="form-control">
+                    <option value="">- Select Activity -</option>
+                    @foreach (var member in Model.activities)
+                            {
+                                <option value="@member.ActivityId">@member.Name</option>
+                            }
+                </select>
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

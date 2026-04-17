@@ -1,0 +1,20 @@
+﻿@model ClubManagmentSystem.Models.Activityy
+
+<h1>Edit</h1>
+
+<form asp-action="Edit" method="post" class="form-control">
+    <input type="hidden" asp-for="ActivityId"/>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="Type"></label>
+        <input asp-for="Type"/>
+    </div>
+    <div class="form-group">
+    <label asp-for="Duration"></label>
+    <input asp-for="Duration" />
+</div>
+<button type="submit" class="btn btn-primary">Edit</button>
+</form>
